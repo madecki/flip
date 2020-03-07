@@ -1,0 +1,38 @@
+{
+  "1": {
+    "name": "Product one",
+    "desc": "Product desc",
+    "price": 120,
+    "currency": "PLN"
+  },
+  "2": {
+    "name": "Product two",
+    "desc": "Product desc",
+    "price": 50,
+    "currency": "CAD"
+  },
+  "3": {
+    "name": "Product three",
+    "desc": "Product desc",
+    "price": 12,
+    "currency": "HUF"
+  },
+  "4": {
+    "name": "Product four",
+    "desc": "Product desc",
+    "price": 35,
+    "currency": "CHF"
+  },
+  "5": {
+    "name": "Product five",
+    "desc": "Product desc",
+    "price": 9.9,
+    "currency": "GBP"
+  },
+  "6": {
+    "name": "Product six",
+    "desc": "Product desc",
+    "price": 1,
+    "currency": "THB"
+  }
+}
